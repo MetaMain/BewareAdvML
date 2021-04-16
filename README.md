@@ -1,4 +1,4 @@
-# Code Description
+# Beware the Black-Box Code
 
 Code corresponding to the paper, "Beware the Black-Box: on the Robustness of Recent Defenses to Adversarial Examples":https://arxiv.org/abs/2006.10876
 
